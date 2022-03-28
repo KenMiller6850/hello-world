@@ -1,0 +1,1 @@
+from python_subclass1 import specimen
